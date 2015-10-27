@@ -1,0 +1,40 @@
+AutoRoute Bitcoins
+RCOS
+27 Oct 2015
+
+Colin L Rice
+colin@daedrum.net
+
+* Disclaimers
+
+- I work for Google
+- These are my personal opinions
+- This talk is not a representation of Google's opinion
+- If confused talk to me afterwards
+
+* Bitcoin
+
+.image http://i.imgur.com/cufLoLu.jpg 600 _
+
+* AutoRoute
+
+Highly Experimental IP Replacement
+
+- Encrypted
+- 'Improved' Routing
+- QOS + DDOS prevention baked in
+
+* How Bitcoin is Used
+
+Packets cost money to send.
+Payment required after packet receipt.
+Aggregate payments between nodes.
+Assumption is eventually resolved with abuse mitigation layer.
+
+* Demo
+
+* Thanks To
+
+-Eric, Deric
+-Professor Moorthy
+-RCOS
